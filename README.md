@@ -12,16 +12,6 @@ You don't see it? Just name it – I'm always happy to learn a new tool. You kno
 
 ---
 
-### 🛠️ Side project: KlevrPay
-
-Built from the ground up as a solo engineer.
-Available on the [App Store](https://apps.apple.com/us/app/klevrpay/id6748623150) 🍎
-
-> “Money, but optimized.”  
-> KlevrPay uses AI to analyze your transactions and give you smarter insights about how you spend, save, and grow.
-
----
-
 ### 💬 A bit more about me
 
 - Based in **New York** 🗽 + originally from 🇩🇴
