@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jose Hidalgo
+# 👋 Hey, I'm Jose
 
 I’m a software engineer who loves building platforms and products that make developers (and users) happier 🙂. 
 
